@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "July 2021 - Present",
+            "cardTitle": "College, Information Technology",
+            "cardSubtitle":"Araullo University, Cabanatuan City",
+            "cardDetailedText": "GPA -",
+            "icon" : {
+                "src": "images/education/au.png"
+            }
+        },
+        {
+            "title": "April 2020",
+            "cardTitle": "High School",
+            "cardSubtitle":"Araullo University, Cabanautan City",
+            "cardDetailedText": "Marks - 95%"
+        }
+    ]
+}

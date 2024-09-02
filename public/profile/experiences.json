@@ -1,0 +1,32 @@
+{
+    "experiences": [
+        {
+            "title": "Video Editor",
+            "subtitle": "Different Clients",
+            "workType": "Full-time",
+            "workDescription": [
+                "Edit gameplay montage",
+                "Edit tiktok videos, youtube shorts, instagram reels"
+            ],
+            "dateText": "06/20XX – Present"
+        },
+        {
+            "title": "Photo Editor",
+            "subtitle": "Youtuber",
+            "workType": "Freelance",
+            "workDescription": [
+                "Edit youtube thumbnails for content creator"
+            ],
+            "dateText": "01/20XX – 05/20XX"
+        },
+        {
+            "title": "Website Developer",
+            "subtitle": "Capstone Project",
+            "workType": "Acads",
+            "workDescription": [
+                "Developed barangay information portal system for our capstone project"
+            ],
+            "dateText": "04/2023 – 04/2024"
+        }
+    ]
+}
